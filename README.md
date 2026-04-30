@@ -1,4 +1,7 @@
-# 🏄‍♂️ Juan S Jimenez
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Juan+S+Jimenez!;" />
+</h1>
 
 **`-- CS Student and Tech Enojoyer --`**
 
@@ -11,14 +14,20 @@ I'm a sophomore Data Science major with a CS concentration at CSU, Helppeople So
 
 ---
 
-### 🧰 Languages and Tools
-<img align="left" alt="Python" width="126px" src="https://img.shields.io/badge/python-%23121011.svg?style=for-the-badge&logo=python"
- style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
- <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
- java☕ and R too but i didnt found the badge 
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,vscode,github,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql" /><br>
+</div>
+
+<br/>
+<hr/>
  
 #
 -----
@@ -26,11 +35,14 @@ I'm a sophomore Data Science major with a CS concentration at CSU, Helppeople So
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsjimenezz&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jsjimenezz&theme=gruvbox&border_radius=4.5) 
-
-
+----
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com?user=jsjimenezz&theme=gruvbox&border_radius=4.5"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jsjimenezz&show_icons=true&theme=gruvbox" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 <details>
  <summary><h3>👨‍💻 Juan's Coding Journey</h3></summary>
